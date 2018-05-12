@@ -1,0 +1,28 @@
+_repo: A-Retrospect_26744
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26744-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Taylor, James Hudson
+    alias: Taylor, J. Hudson (James Hudson)
+    birthdate: 1832
+    deathdate: 1905
+    gutenberg_agent_id: '25841'
+    url: http://www.gutenberg.org/2009/agents/25841
+    wikipedia: http://en.wikipedia.org/wiki/Hudson_Taylor
+description: ''
+gutenberg_issued: '2008-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26744'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Missions -- China'
+- !lcc 'BV'
+title: A Retrospect
+url: http://www.gutenberg.org/ebooks/26744
